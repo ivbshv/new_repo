@@ -8,5 +8,6 @@ namespace ConsoleApp4
 {
     internal class newClass
     {
+        //комит в удаленном репозитории и получите его в локальном репозитории.
     }
 }
